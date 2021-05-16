@@ -1,7 +1,7 @@
 # GAN 生成式对抗网络
 
 
-![GAN](https://github.com/weslynn/graphic-deep-neural-network/blob/master/map/Art&pic/ganpic.png)
+![GAN](https://github.com/richardodliu/AlphaTree-graphic-deep-neural-network/blob/master/GAN%E5%AF%B9%E6%8A%97%E7%94%9F%E6%88%90%E7%BD%91%E7%BB%9C/Art%26Ganpic.png)
 
 -----------------------------------
 
